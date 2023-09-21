@@ -7,9 +7,9 @@ To install, type "python3 -m pip install jsonapi" in your terminal.
 Below are some example of how to use jsonapi
 
 ```python
-        complex_number = complex(2, 6)
-        encoded = jsonapi.dumps(complex_number)
+complex_number = complex(2, 6)
+encoded = jsonapi.dumps(complex_number)
 
-        r = range(0, 10, 1)
-        encoded = jsonapi.dumps(r)
+r = range(0, 10, 1)
+encoded = jsonapi.dumps(r)
 ```
