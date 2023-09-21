@@ -1,1 +1,4 @@
 #This is the .gitignore for assignment2
+/dist
+/build
+
