@@ -1,4 +1,8 @@
 #This is the .gitignore for assignment2
 /dist
 /build
+/src/jsonapi.egg-info
+
+#Mac specific files
+.DS_Store
 
